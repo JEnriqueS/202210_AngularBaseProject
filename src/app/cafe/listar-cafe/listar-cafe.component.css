@@ -1,0 +1,17 @@
+h5{
+  font-family:fantasy;
+  font-size: xx-large;
+}
+
+.border-img{
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 0%;
+  border-left: 0%;
+  border-right: 0%;
+  border-width: 0.0001rem;
+  border-style: solid;
+  border-color: lightgrey;
+}
